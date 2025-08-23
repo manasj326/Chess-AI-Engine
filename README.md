@@ -30,6 +30,7 @@ The engine follows the full rules of chess and features a computer opponent that
 
 ## 🌱 Future Improvements
 - Implement **transposition tables** with Zobrist hashing  
-- Build a **GUI** for interactive play  
+- Build a **GUI** for interactive play
+- Add **Endgame** book for perfect late-game play
 
 ---
