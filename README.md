@@ -34,3 +34,9 @@ The engine follows the full rules of chess and features a computer opponent that
 - Add an **Endgame** book for perfect late-game play
 
 ---
+
+## ▶️ Getting Started
+- Clone the repo
+- Compile the code - javac Java.main
+- Run - java Main
+---
