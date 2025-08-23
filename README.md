@@ -37,6 +37,6 @@ The engine follows the full rules of chess and features a computer opponent that
 
 ## ▶️ Getting Started
 - Clone the repo
-- Compile the code - javac Java.main
+- Compile the code - javac Main.java
 - Run - java Main
 ---
